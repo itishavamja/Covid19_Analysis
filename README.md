@@ -23,3 +23,6 @@ key steps
 
 Line Plots showing the spread of COVID-19 over time in countries like China, Italy, and Spain.
 Scatter & Regression Plots illustrating how infection rates may relate to happiness factors.
+
+<img width="1253" height="637" alt="image" src="https://github.com/user-attachments/assets/51d563f8-20b9-4a6f-9f88-3f24c4ed8de1" />
+
