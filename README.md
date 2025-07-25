@@ -26,3 +26,6 @@ Scatter & Regression Plots illustrating how infection rates may relate to happin
 
 <img width="1253" height="637" alt="image" src="https://github.com/user-attachments/assets/51d563f8-20b9-4a6f-9f88-3f24c4ed8de1" />
 
+<img width="1083" height="607" alt="image" src="https://github.com/user-attachments/assets/f70ca25c-9739-4511-8ce7-a1775f8448fe" />
+
+
